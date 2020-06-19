@@ -20,9 +20,9 @@ section.contact {
                 color: white;
                 border-radius: 100%;
             }
-            &.social-twitter {
+            &.social-github {
                 a {
-                    background-color: $brand-twitter;
+                    background-color: black;
                     &:hover {
                         background-color: darken($brand-twitter, 5%);
                     }
