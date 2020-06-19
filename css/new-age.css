@@ -94,7 +94,7 @@ section h2 {
 
 #mainNav .navbar-nav > li > a.active {
   color: #3b5998 !important;
-  background-color: transparent;
+  backgroun-color: transparent;
 }
 
 #mainNav .navbar-nav > li > a.active:hover {
@@ -124,11 +124,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li > a,
   #mainNav .navbar-nav > li > a:focus {
-    color: rgba(0, 0, 0, 0.7);
+    color: rgba(255, 255, 255, 0.7);
   }
   #mainNav .navbar-nav > li > a:hover,
   #mainNav .navbar-nav > li > a:focus:hover {
-    color: orange;
+    color: black;
   }
   #mainNav.navbar-shrink {
     border-color: rgba(34, 34, 34, 0.1);
@@ -155,7 +155,7 @@ header.masthead {
   width: 100%;
   padding-top: 150px;
   padding-bottom: 100px;
-  color: black;
+  color: white;
   background: url("../img/bg-pattern.png"), #47bfbd;
   background: url("../img/bg-pattern.png"), linear-gradient(to left, #47bfbd, #e08210);
 }
@@ -168,10 +168,6 @@ header.masthead .header-content {
 
 header.masthead .header-content h1 {
   font-size: 30px;
-}
-
-header.masthead .button {
-  color: black;
 }
 
 header.masthead .header-privacy {
@@ -354,10 +350,6 @@ section.contact ul.list-social li a {
   border-radius: 100%;
 }
 
-section.contact ul.list-social li.social-github .github {
-  color: black;
-}
-
 section.contact ul.list-social li.social-github a {
   background-color: black;
 }
@@ -385,7 +377,7 @@ section.contact ul.list-social li.social-google-plus a:hover {
 footer {
   padding: 25px 0;
   text-align: center;
-  color: rgba(255, 255, 255, 0.3);
+  color: orange;
   background-color: #222222;
 }
 
@@ -400,7 +392,7 @@ footer ul {
 
 footer ul li a {
   font-size: 12px;
-  color: rgba(255, 255, 255, 0.3);
+  color: a(255, 255, 255, 0.3);
 }
 
 footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li a.active {
@@ -451,4 +443,14 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 
 .footer-color {
   color: orange;
+}
+
+.github
+{
+	color: black;
+}
+
+.github2
+{
+	color: white;
 }
