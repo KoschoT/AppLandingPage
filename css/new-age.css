@@ -350,12 +350,12 @@ section.contact ul.list-social li a {
   display: block;
   width: 80px;
   height: 80px;
-  color: orange;
+  color: white;
   border-radius: 100%;
 }
 
 section.contact ul.list-social li.social-github .github {
-  color: #fcfc00;
+  color: orange;
 }
 
 section.contact ul.list-social li.social-github a {
