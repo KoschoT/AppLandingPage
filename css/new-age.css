@@ -377,7 +377,7 @@ section.contact ul.list-social li.social-google-plus a:hover {
 footer {
   padding: 25px 0;
   text-align: center;
-  color: rgba(255, 255, 255, 0.3);
+  color: orange;
   background-color: #222222;
 }
 
@@ -392,7 +392,7 @@ footer ul {
 
 footer ul li a {
   font-size: 12px;
-  color: rgba(255, 255, 255, 0.3);
+  color: a(255, 255, 255, 0.3);
 }
 
 footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li a.active {
@@ -443,4 +443,9 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 
 .footer-color {
   color: orange;
+}
+
+.github
+{
+	color: black;
 }

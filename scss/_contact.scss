@@ -21,6 +21,11 @@ section.contact {
                 border-radius: 100%;
             }
             &.social-github {
+				.github
+				{
+					color:black;
+				}
+
                 a {
                     background-color: black;
                     &:hover {
