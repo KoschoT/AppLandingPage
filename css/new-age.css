@@ -170,6 +170,11 @@ header.masthead .header-content h1 {
   font-size: 30px;
 }
 
+header.masthead .header-privacy {
+  font-size: 15px;
+  text-align: left;
+}
+
 header.masthead .device-container {
   max-width: 325px;
   margin-right: auto;
@@ -399,6 +404,10 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   background: linear-gradient(#3b5998, #344e86);
 }
 
+.bg-1 {
+  background: #47bfbd;
+}
+
 .text-primary {
   color: #3b5998;
 }
@@ -430,4 +439,8 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .btn-xl {
   font-size: 11px;
   padding: 15px 45px;
+}
+
+.footer-color {
+  color: orange;
 }
