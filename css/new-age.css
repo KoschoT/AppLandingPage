@@ -356,8 +356,8 @@ section.contact ul.list-social li a {
 
 section.contact ul.list-social li.social-github .github {
   text-align: center;
-  font-size: 30px;
-  color: orange;
+  font-size: 25px;
+  color: red;
 }
 
 section.contact ul.list-social li.social-github a {
