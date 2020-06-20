@@ -17,19 +17,20 @@ section.contact {
                 display: block;
                 width: 80px;
                 height: 80px;
-                color: white;
+                color: black;
                 border-radius: 100%;
             }
             &.social-github {
 				.github
 				{
+					margin-top: 30px;
 					text-align: center;
 					font-size: 25px;
-					color: red;
+					color: black;
 				}
 
                 a {
-                    background-color: black;
+                    background-color: orange;
                     &:hover {
                         background-color: darken($brand-twitter, 5%);
                     }

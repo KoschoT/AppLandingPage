@@ -350,18 +350,19 @@ section.contact ul.list-social li a {
   display: block;
   width: 80px;
   height: 80px;
-  color: white;
+  color: black;
   border-radius: 100%;
 }
 
 section.contact ul.list-social li.social-github .github {
+  margin-top: 30px;
   text-align: center;
   font-size: 25px;
-  color: red;
+  color: black;
 }
 
 section.contact ul.list-social li.social-github a {
-  background-color: black;
+  background-color: orange;
 }
 
 section.contact ul.list-social li.social-github a:hover {
